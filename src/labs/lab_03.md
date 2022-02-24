@@ -9,15 +9,15 @@ In this lab, we will explore and familiarise with some of the most common data f
 
 - The internet
 - [QGIS](https://qgis.org/en/site/). Any version should work in this context, but if you are installing it on your computer, QGIS 3.10 is recommended
-- A Python installation such as the "Geographic Data Science Stack 2019" in the University of Liverpool computers, or the `gds_env` Docker container in your own machine (see [here](http://darribas.org/gds19/software.html) for instructions) 
+- A Python installation such as the "Geographic Data Science Stack 2019" in the University of Liverpool computers, or the `gds_env` Docker container in your own machine (see [here](http://darribas.org/gds19/software.html) for instructions)
 
 ## `GeoJSON`
 
 To get familiar with the format, we will start by creating a GeoJSON file from scratch. Head over to the following website:
 
-> [https://geojson.net](https://geojson.net)
+> [https://geojson.io](https://geojson.io)
 
-In there, we will create together a small example to better understand the building blocks of this file format. 
+In there, we will create together a small example to better understand the building blocks of this file format.
 
 ![](figs/geojson_roxby.png)
 
